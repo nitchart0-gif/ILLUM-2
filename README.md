@@ -1,2 +1,0 @@
-# ILLUM-2
-ILLUM 2
